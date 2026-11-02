@@ -1,6 +1,6 @@
 {
   "monorepo": "https://github.com/fluentxverse/fluentxverse-monorepo",
-  "commit": "0b10bf263db4d9bb599a15f17b41d6911f30b91e",
+  "commit": "5640d7885407a520b602e04cd2b307a6c73680df",
   "app": "fluentxverse-mobile",
   "includedFiles": [
     "fluentxverse-mobile/.gitignore",
